@@ -3,8 +3,8 @@
 
 
 ## Java系列
-1. HashMap的实现
-2. LinkHashMap的实现
+1. [HashMap的实现](https://github.com/SnowMusic/serious-snow/issues/1)
+2. [LinkHashMap的实现](https://github.com/SnowMusic/serious-snow/issues/2)
 
 
 ## Android系列
