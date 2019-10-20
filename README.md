@@ -8,7 +8,7 @@
 
 
 ## Android系列
-1. [App安装与启动流程]('https://github.com/SnowMusic/serious-snow/issues/3')
+1. [App安装与启动流程](https://github.com/SnowMusic/serious-snow/issues/3)
 
 ## 前端系列
 
