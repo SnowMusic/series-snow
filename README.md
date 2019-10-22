@@ -5,7 +5,7 @@
 ## Java系列
 1. [HashMap的实现](https://github.com/SnowMusic/serious-snow/issues/1)
 2. [LinkHashMap的实现](https://github.com/SnowMusic/serious-snow/issues/2)
-
+3. [ArrayList的实现](https://github.com/SnowMusic/serious-snow/issues/4)
 
 ## Android系列
 1. [App安装与启动流程](https://github.com/SnowMusic/serious-snow/issues/3)
