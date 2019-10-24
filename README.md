@@ -10,6 +10,7 @@
 
 ## Android系列
 1. [App安装与启动流程](https://github.com/SnowMusic/serious-snow/issues/3)
+2. [EventBus 3.0源码解读](https://github.com/SnowMusic/serious-snow/issues/7)
 
 ## 网络
 1. [https证书发放过程](https://github.com/SnowMusic/serious-snow/issues/5)
