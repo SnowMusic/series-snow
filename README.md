@@ -8,15 +8,24 @@
 3. [ArrayList的实现](https://github.com/SnowMusic/serious-snow/issues/4)
 4. [static代码块、构造代码块、构造函数以及Java类初始化顺序](https://github.com/SnowMusic/serious-snow/issues/6)
 
+
 ## Android系列
 1. [App安装与启动流程](https://github.com/SnowMusic/serious-snow/issues/3)
-2. [EventBus 3.0源码解读](https://github.com/SnowMusic/serious-snow/issues/7)
+
+
+## Android框架
+1. [EventBus 3.0源码解读](https://github.com/SnowMusic/serious-snow/issues/7)
+
 
 ## 网络
 1. [https证书发放过程](https://github.com/SnowMusic/serious-snow/issues/5)
+
+
 ## 前端系列
 
+
 ## 算法
+
 
 ## 勘误及提问
 如果有疑问或者发现错误，可以在相应的 issues 进行提问或勘误。
