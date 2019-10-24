@@ -6,6 +6,7 @@
 1. [HashMap的实现](https://github.com/SnowMusic/serious-snow/issues/1)
 2. [LinkHashMap的实现](https://github.com/SnowMusic/serious-snow/issues/2)
 3. [ArrayList的实现](https://github.com/SnowMusic/serious-snow/issues/4)
+4. [static代码块、构造代码块、构造函数以及Java类初始化顺序](https://github.com/SnowMusic/serious-snow/issues/6)
 
 ## Android系列
 1. [App安装与启动流程](https://github.com/SnowMusic/serious-snow/issues/3)
