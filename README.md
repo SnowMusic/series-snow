@@ -10,6 +10,8 @@
 ## Android系列
 1. [App安装与启动流程](https://github.com/SnowMusic/serious-snow/issues/3)
 
+## 网络
+1. [https证书发放过程](https://github.com/SnowMusic/serious-snow/issues/5)
 ## 前端系列
 
 ## 算法
