@@ -19,7 +19,7 @@
 
 
 ## 网络
-1. [https证书发放过程](https://github.com/SnowMusic/serious-snow/issues/5
+1. [https证书发放过程](https://github.com/SnowMusic/serious-snow/issues/5)
 
 
 ## 前端系列
