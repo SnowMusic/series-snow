@@ -15,10 +15,11 @@
 
 ## Android框架
 1. [EventBus 3.0源码解读](https://github.com/SnowMusic/serious-snow/issues/7)
+2. [OkHttp3探索(请求过程篇)](https://github.com/SnowMusic/serious-snow/issues/8)
 
 
 ## 网络
-1. [https证书发放过程](https://github.com/SnowMusic/serious-snow/issues/5)
+1. [https证书发放过程](https://github.com/SnowMusic/serious-snow/issues/5
 
 
 ## 前端系列
