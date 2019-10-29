@@ -11,6 +11,7 @@
 
 ## Android系列
 1. [App安装与启动流程](https://github.com/SnowMusic/serious-snow/issues/3)
+2. [Android事件分发机制](https://github.com/SnowMusic/serious-snow/issues/10)
 
 
 ## Android框架
