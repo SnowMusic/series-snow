@@ -6,11 +6,20 @@
 1. [HashMap的实现](https://github.com/SnowMusic/serious-snow/issues/1)
 2. [LinkHashMap的实现](https://github.com/SnowMusic/serious-snow/issues/2)
 3. [ArrayList的实现](https://github.com/SnowMusic/serious-snow/issues/4)
+4. 线程池的使用
+
+## JVM
+1. 类加载过程
+2. 
 
 ## Android系列
 1. [App安装与启动流程](https://github.com/SnowMusic/serious-snow/issues/3)
+2. 
 
 ## 前端系列
+1. 虚拟dom
+2. Vue的双向绑定
+3. webpack打包流程
 
 ## 算法
 
